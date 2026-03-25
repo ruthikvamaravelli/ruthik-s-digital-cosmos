@@ -94,7 +94,7 @@ const HeroSection = () => {
           <a href="#projects" className="btn-primary-glow rounded-full">
             View Projects
           </a>
-          <a href="#contact" className="btn-outline-glow rounded-full">
+          <a href="/ruthik_resume.pdf" download className="btn-outline-glow rounded-full">
             Download Resume
           </a>
         </motion.div>
